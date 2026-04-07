@@ -1,6 +1,5 @@
-# Protoj AI Mesh Spec
+# GenAI Mesh Spec
 
-Protoj AI  
 “Mesh AI: The Infrastructure Layer for Secure, Collaborative Intelligence.”
 
 We built the orchestration layer that allows small, specialized language models to reason together — privately, explainably, and at scale.
