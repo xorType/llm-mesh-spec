@@ -1,11 +1,11 @@
-# Protoj AI Mesh Spec
+# GenAI Mesh Spec
 
 ## Background
 Personally, I am a big advocate for small, specialized language models. This spec I created in Oct. 2025 based on blending the concept of small language models and agents communicating on a peer-to-peer network. The result turned out to be a mashing of peer-to-peer and IoT Mesh Network concpets. 
 
 > **"Mesh AI: The Infrastructure Layer for Secure, Collaborative Intelligence."**
 
-This repository contains the functional specification for the **Protoj AI Mesh** — an orchestration platform that enables small, specialized language models (SLMs) to reason together privately, explainably, and at scale.
+This repository contains the functional specification for the **GenAI Mesh** — an orchestration platform that enables small, specialized language models (SLMs) to reason together privately, explainably, and at scale.
 
 ---
 
